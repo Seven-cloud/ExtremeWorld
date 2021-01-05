@@ -21,3 +21,18 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+.vs/ExtremeWorld/DesignTimeBuild/.dtbcache
+.vs/ExtremeWorld/v16/Server/sqlite3/storage.ide-wal
+*.ide-shm
+.vs/ExtremeWorld/v16/Server/sqlite3/storage.ide
+.vs/ExtremeWorld/v16/Server/sqlite3/db.lock
+.vs/ExtremeWorld/v16/.suo
+.vs/ExtremeWorld/v16/.suo
+*.suo
+.vs/ExtremeWorld/DesignTimeBuild/.dtbcache
+.vs/ExtremeWorld/DesignTimeBuild/.dtbcache
+.vs/ExtremeWorld/v16/.suo
+.vs/ExtremeWorld/v16/.suo
+*.suo
+.vs/ExtremeWorld/v16/.suo
+.vs/ExtremeWorld/v16/.suo
